@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="type_password_label">กรุณาป้อนรหัสผ่าน</string>
+</resources>
